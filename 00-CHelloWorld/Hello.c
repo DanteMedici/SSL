@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Imprime "¡Hola, Mundo!"*/
+/* Imprime "¡Hola, mundo!"*/
 
 int main () {
     printf("¡Hola, mundo!\n");
