@@ -24,7 +24,7 @@ int main()
     else if (__STDC_VERSION__ == 199901L)
         printf("Estas usando C99!\n");
   #else
-    printf("We are using C90!\n");
+    printf("Estas usando C90!\n");
   #endif
 
   return 0;
